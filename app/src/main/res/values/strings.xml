@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidMVVM</string>
+    <string name="ok">OK</string>
+    <string name="err_intenet_connection">Please check your internet connection and try again</string>
+</resources>
